@@ -37,3 +37,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 Vue.config.productionTip = false
 ```
+
+
+
+![image-20210127155220473](TIL.assets/image-20210127155220473.png)
